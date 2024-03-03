@@ -1,0 +1,24 @@
+function addBenificiers(address,percentage) // add benificiers to the list of benificiers
+
+function removeBenificiers(address) // remove benificiers to the list of benificiers
+
+function changePercentage(address,percentage) // change the percentage of a benificiers
+
+function addAuthorityToLiquidate(address) // add the authority to liquidate
+
+function removeAuthorityToLiquidate(address) // remove the authority to liquidate
+
+function addAuthorityToAtestTheDeath(address) // add the authority to atest the death
+
+function removeAuthorityToAtestTheDeath(address) // remove the authority to atest the death
+
+function liquidate() // mainfunction chack if the subscriber is dead and if the authority to atest the death is
+                     call checkIfSubscriberIsDead()
+                     
+function addFunds(token) // add funds in raport of the contract
+
+function transferOwnership(address) // to manage add & remove authority to liquidate & atest the death
+
+function attestTheDeath() // attest the death of the subscriber
+
+oracle function  checkIfSubscriberIsDead( hash) // check if the subscriber is dead
